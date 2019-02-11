@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rakib Calculator</string>
+    <string name="edit1_text"> Enter number1 </string>
+    <string name="edit2_text"> Enter number2 </string>
+    <string name="add"> Add </string>
+    <string name="sub"> Sub </string>
+    <string name="mul"> Mul </string>
+    <string name="div"> Div </string>
+</resources>
